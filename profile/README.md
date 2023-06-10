@@ -4,8 +4,8 @@
 
 ## What does "Hakone" mean?
 
-[Hakone](https://en.wikipedia.org/wiki/Hakone) is a scenic spot in the southwest of Tokyo.
-The [Hakone Ekiden](https://en.wikipedia.org/wiki/Hakone_Ekiden) is a **relay** marathon run by famous Japanese university students held every New Year holidays between Tokyo and Hakone.
+[Hakone](https://en.wikipedia.org/wiki/Hakone) is a scenic area in the southwest of Tokyo.
+The [Hakone Ekiden](https://en.wikipedia.org/wiki/Hakone_Ekiden) is a **relay** marathon run by famous Japanese university students held every New Year's holiday between Tokyo and Hakone.
 The word "Hakone" is synonymous with the relay marathon for the Japanese, and is intended as a tribute to the [**Relay PHP**](https://relayphp.com/).
 
 ## What is the icon?
