@@ -1,4 +1,4 @@
-# Hakone HTTP Middlewares for PHP 🏃‍♀️
+# Hakone: HTTP packages for PHP 🏃‍♀️
 
 **Hakone** is a collection of [PSR](https://www.php-fig.org/)-based HTTP libraries. These packages focus on generality and type safety.
 
