@@ -14,7 +14,7 @@ The word "Hakone" is synonymous with the relay marathon for the Japanese, and is
 
 <a href="https://photos.app.goo.gl/61cQhKB4pLAKEK8N9"><img src="hakone.jpg" width="512"></a>
 
-This beautiful photo is of [the Hayakawa River](https://en.wikipedia.org/wiki/Haya_River_(Kanagawa)) that flows by [Hakone-Yumoto Station](https://en.wikipedia.org/wiki/Hakone-Yumoto_Station).  
-Here you can easily access beautiful scenery and great [Onsen (hot springs)](https://en.wikipedia.org/wiki/Onsen) from [Shinjuku, Tokyo](https://en.wikipedia.org/wiki/Shinjuku).
+This beautiful photo is of [the Hayakawa River](https://en.wikipedia.org/wiki/Haya_River_(Kanagawa)), which flows by [Hakone-Yumoto Station](https://en.wikipedia.org/wiki/Hakone-Yumoto_Station).  
+Here you can easily access beautiful scenery and great [onsen (hot springs)](https://en.wikipedia.org/wiki/Onsen) from [Shinjuku, Tokyo](https://en.wikipedia.org/wiki/Shinjuku).
 
 </div>
